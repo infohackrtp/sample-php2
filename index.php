@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <title>Karo88 Daftar Game of the Year</title>
-	
     <meta name="description" content="Karo88"/>
     <meta name="keywords" content="Karo88, Karo88 gaming"/>
     <link itemprop="mainEntityOfPage" rel="canonical" href="https://karo88.club/"/>
