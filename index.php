@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Karo88 Daftar Game of the Year</title>
-    <meta name="description" content="Karo88"/>
-    <meta name="keywords" content="Karo88, Karo88 gaming"/>
-    <link itemprop="mainEntityOfPage" rel="canonical" href="https://karo88.club/"/>
+    <title>Petir33 Daftar Game of the Year</title>	
+    <meta name="description" content="Petir33"/>
+    <meta name="keywords" content="Petir33, Petir33 gaming"/>
+    <link itemprop="mainEntityOfPage" rel="canonical" href="http://karo88.club/"/>
     <meta name="robots" content="index, follow"/>
     <meta name="page-locale" content="id,en">
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -17,20 +17,21 @@
     <link rel="preload" as="image" href="https://i.ibb.co/gVtNBFx/bannergaming2023.webp"/>
     <meta name="supported-amp-formats" content="websites,stories,ads,email">
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Karo88">
-    <meta name="twitter:description" content="Karo88 Daftar Game of the Year">
+    <meta name="twitter:title" content="Petir33">
+    <meta name="twitter:description" content="Petir33 Daftar Game of the Year">
     <meta name="twitter:image:src" content="https://i.ibb.co/gVtNBFx/bannergaming2023.webp">
-    <meta name="og:title" content="Karo88">
-    <meta name="og:description" content="Karo88 Daftar Game of the Year">
+    <meta name="og:title" content="Petir33">
+    <meta name="og:description" content="Petir33 Daftar Game of the Year">
     <meta property="og:image:width" content="600">
     <meta property="og:image:height" content="466">
-    <meta name="og:url" content=https://karo88.club/">
-    <meta name="og:site_name" content="Karo88">
+    <meta name="og:url" content=http://karo88.club/">
+    <meta name="og:site_name" content="Petir33">
     <meta name="og:type" content="website">
     <meta name="geo.country" content="ID">
     <meta name="tgn.nation" content="Indonesia">
-    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/x5yTRxz/485567845867.jpg"/>
-    <link href='https://i.ibb.co/x5yTRxz/485567845867.jpg' rel='icon' sizes='32x32' type='image/png'/>
+    <link rel="shortcut icon" type="image/x-icon" href="https://i.ibb.co/x3Bxc7F/slotgacor.webp"/>
+	<link rel="amphtml" href="http://karo88.club/">
+    <link href='https://i.ibb.co/x3Bxc7F/slotgacor.webp' rel='icon' sizes='32x32' type='image/png'/>
 	
     <style amp-runtime i-amphtml-version="012107240354000">
     html.i-amphtml-fie {
@@ -1061,7 +1062,7 @@
       }
     }
 
-    table.seo-Karo88 {
+    table.seo-Petir33 {
       font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
       width: 100%;
       text-align: left;
@@ -1070,23 +1071,23 @@
       margin: 0 20px 0 0
     }
 
-    table.seo-Karo88 td,
-    table.seo-Karo88 th {
+    table.seo-Petir33 td,
+    table.seo-Petir33 th {
       border: 1px solid #be9f63;
       padding: 10px 5px
     }
 
-    table.seo-Karo88 tbody td {
+    table.seo-Petir33 tbody td {
       font-size: calc(8px+1vh);
       font-weight: 500;
       color: #bfbfbf
     }
 
-    table.seo-Karo88 thead {
+    table.seo-Petir33 thead {
       background: #be9f63
     }
 
-    table.seo-Karo88 thead th {
+    table.seo-Petir33 thead th {
       font-size: calc(12px+1vh);
       font-weight: 700;
       color: #000;
@@ -1857,11 +1858,11 @@
       {
         "@context": "https://schema.org",
         "@type": "Organization",
-        "name": "Karo88 gaming",
-        "alternateName": "Karo88 gaming",
-        "url": "https://karo88.club/",
-        "logo": "https://i.ibb.co/rMfswjg/logo-karo88.webp",
-        "sameAs": "https://karo88.club/"
+        "name": "Petir33 gaming",
+        "alternateName": "Petir33 gaming",
+        "url": "http://karo88.club/",
+        "logo": "https://i.ibb.co/x3Bxc7F/slotgacor.webp",
+        "sameAs": "http://karo88.club/"
       }
     </script>
     <script type="application/ld+json">
@@ -1870,19 +1871,19 @@
         "@type": "Article",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "@id": "https://karo88.club/"
+          "@id": "http://karo88.club/"
         },
-        "headline": "Karo88 Daftar Game of the Year",
-        "description": "Karo88: Situs Karo88 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Karo88 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.",
+        "headline": "Petir33 Daftar Game of the Year",
+        "description": "Petir33: Situs Petir33 Gaming online resmi Banyak Bonus dan Bergaransi populer. Link Daftar Login Petir33 Game Live Paling Gampang, dan mengasikkan untuk dimainkan saat santai.",
         "image": ["https://i.ibb.co/gVtNBFx/bannergaming2023.webp", "https://i.ibb.co/gVtNBFx/bannergaming2023.webp"],
         "author": {
           "@type": "Organization",
-          "name": "Karo88",
-          "url": "https://karo88.club/"
+          "name": "Petir33",
+          "url": "http://karo88.club/"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Karo88 gaming",
+          "name": "Petir33 gaming",
           "logo": {
             "@type": "ImageObject",
             "url": "https://i.ibb.co/gVtNBFx/bannergaming2023.webp"
@@ -1900,16 +1901,16 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://karo88.club/"
+          "item": "http://karo88.club/"
         }, {
           "@type": "ListItem",
           "position": 2,
-          "name": "Karo88",
-          "item": "https://karo88.club/"
+          "name": "Petir33",
+          "item": "http://karo88.club/"
         }, {
           "@type": "ListItem",
           "position": 3,
-          "name": "Karo88 Daftar Game of the Year"
+          "name": "Petir33 Daftar Game of the Year"
         }]
       }
         </script>
@@ -1921,11 +1922,11 @@
           <div class="col-md-12">
             <div class="logomobi acenter">
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
-                <a itemprop="url" href="#" title="Karo88 gaming">
-                  <a href="#" title="Karo88 gaming">
-                    <amp-img src="https://i.ibb.co/rMfswjg/logo-karo88.webp" alt="Karo88 gaming" width="270" height="94"/>
+                <a itemprop="url" href="#" title="Petir33 gaming">
+                  <a href="#" title="Petir33 gaming">
+                    <amp-img src="https://i.ibb.co/x3Bxc7F/slotgacor.webp" alt="Petir33 gaming" width="270" height="94"/>
                   </a>
-                  <meta itemprop="name" content="Karo88 Daftar Game of the Year">
+                  <meta itemprop="name" content="Petir33 Daftar Game of the Year">
                 </a>
               </span>
             </div>
@@ -1941,11 +1942,11 @@
           <div class="col-md-4">
             <div class="logo acenter">
               <span itemscope="itemscope" itemtype="http://schema.org/Brand">
-                <a itemprop="url" href="https://karo88.club/" title="Karo88 gaming">
-                  <a href="#" title="Karo88 gaming">
-                    <amp-img src="https://i.ibb.co/rMfswjg/logo-karo88.webp" alt="Karo88 gaming" width="300" height="68" layout="responsive"/>
+                <a itemprop="url" href="http://karo88.club/" title="Petir33 gaming">
+                  <a href="#" title="Petir33 gaming">
+                    <amp-img src="https://i.ibb.co/x3Bxc7F/slotgacor.webp" alt="Petir33 gaming" width="300" height="68" layout="responsive"/>
                   </a>
-                  <meta itemprop="name" content="Karo88 Daftar Game of the Year">
+                  <meta itemprop="name" content="Petir33 Daftar Game of the Year">
                 </a>
               </span>
             </div>
@@ -1954,12 +1955,12 @@
           <div class="col-md-8">
             <div class="row logform">
               <div class="col-xs-6">
-                <a href="https://www.wisatavilla.xyz/anjay" target="_blank" rel="nofollow noreferrer">
+                <a href="https://www.serverpay4d.com/anjay" target="_blank" rel="nofollow noreferrer">
                   <span class="tron-login">LOGIN</span>
                 </a>
               </div>
               <div class="col-xs-6">
-                <a href="https://www.wisatavilla.xyz/jancuk" target="_blank" rel="nofollow noreferrer">
+                <a href="https://www.serverpay4d.com/jancuk" target="_blank" rel="nofollow noreferrer">
                   <span class="tron-regis">DAFTAR</span>
                 </a>
               </div>
@@ -1969,24 +1970,24 @@
         <div class="spacer"></div>
       <div class="container">
         <div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
-          <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Karo88 gaming Terpercaya">
+          <amp-img src="https://i.ibb.co/gVtNBFx/bannergaming2023.webp" width="1290" height="309" layout="responsive" alt="Situs Petir33 gaming Terpercaya">
           </amp-img>
         </div>
       </div>
       <div class="clear"></div>
       <div class="container">
         <div class="table">
-          <table class="seo-Karo88" style="width:100%">
+          <table class="seo-Petir33" style="width:100%">
             <thead>
               <tr>
-                <th colspan="3">Karo88 DAFTAR GAME OF THE YEAR</th>
+                <th colspan="3">Petir33 DAFTAR GAME OF THE YEAR</th>
               </tr>
             </thead>
             <tbody>
               <tr>
                 <td style="padding: 10px;">Nama Situs</td>
                 <td style="padding: 10px;">
-                  <a href="#" title="Karo88 gaming" rel="nofollow noopener" target="_blank">Karo88</a>
+                  <a href="#" title="Petir33 gaming" rel="nofollow noopener" target="_blank">Petir33</a>
                 </td>
               </tr>
               <tr>
@@ -1999,7 +2000,7 @@
                 <td style="padding: 10px;">Daftar Sekarang</td>
                 <td style="padding: 10px;">
                   <span style="color: #ffffff;">
-                    <a style="color: #ffffff;" title="Klik Daftar Karo88 gaming" href="https://karo88.club/" target="_blank" rel="nofollow noopener">TEKAN SEKARANG</a>
+                    <a style="color: #ffffff;" title="Klik Daftar Petir33 gaming" href="http://karo88.club/" target="_blank" rel="nofollow noopener">TEKAN SEKARANG</a>
                   </span>
                 </td>
               </tr>
@@ -2016,12 +2017,12 @@
                 <p id="breadcrumbs">
                   <span>
                     <span>
-                      <a href="#">Home</a> >> <a href="#">Karo88</a> >> <strong class="breadcrumb_last" aria-current="page">Karo88 Daftar Game of the Year</strong>
+                      <a href="#">Home</a> >> <a href="#">Petir33</a> >> <strong class="breadcrumb_last" aria-current="page">Petir33 Daftar Game of the Year</strong>
                     </span>
                   </span>
                 </p>
                 <hr>
 				
 				<h1 style="text-align: center;" itemprop="headline">
-         Karo88 Daftar Game of the Year
+         Petir33 Daftar Game of the Year
     </h1>
